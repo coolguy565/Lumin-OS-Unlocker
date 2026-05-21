@@ -3,8 +3,8 @@
 You have likely arrived here from the main Lumin OS repository.
 
 ## How to Unlock
-Simply get the Unlocker ZIP from releases. Extract to a subdirectory called "USB0" on the Lumin OS folder.
-Extract it into a folder named `USB0` inside your Lumin OS directory.
+Simply get the Unlocker ZIP from releases. Extract to a folder named "USB0" on the Lumin OS directory.
+You dont need to extract it directly to the Lumin OS directory, since USB0 is also a flat ZIP.
 
 ## How to Unlock 2
 Launch launch.cmd from the Lumin OS folder, then enter the BIOS boot menu.
