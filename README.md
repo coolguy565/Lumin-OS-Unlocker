@@ -27,3 +27,8 @@ The unlocker makes a backup of the kernel (lukrnl-backup.cmd),
 And then patches the kernel by injecting additional lines using the symbols (flags on programming that point to places. If symbols didnt exist, we would have to guess, and thats really uncool).
 
 It also installs App Sideloader and App Drawer by extracting them to data. The entries are already added from the kernel patches since the kernel is also userland.
+
+## Screenshots
+![Unlocked Desktop]()
+
+Unlocked Lumin Desktop
