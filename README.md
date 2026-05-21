@@ -10,7 +10,7 @@ You dont need to extract it directly to the Lumin OS directory, since USB0 is al
 ## How to Unlock 2
 Launch launch.cmd from the Lumin OS folder, then enter the BIOS boot menu.
 
-Select USB0, then when the unlock confirmation appears, select Y. If it stops at patch blocks ready, press enter.
+Select USB0, then when the unlock confirmation appears, select Y. If it stops at `[OK] blocks ready`, press enter.
 
 It will automatically reboot, and voila! You have unlocked Lumin OS.
 
